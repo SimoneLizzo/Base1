@@ -22,7 +22,7 @@
 	let customReadRPCs = [];
 
 	//Used for pushing transactions to solana chain
-	let customWriteRPCs = ['https://rpc.hellomoon.io/bbfec6fd-b5d2-4339-b2f3-c8f0bbc0fcef'];
+	let customWriteRPCs = [];
 
     let saRPCs = [
         		'https://rpc.hellomoon.io/57dbc69d-7e66-4454-b33e-fa6a4b46170f', //Hello Moon
